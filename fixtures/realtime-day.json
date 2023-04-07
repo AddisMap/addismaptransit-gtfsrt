@@ -1,0 +1,158 @@
+{
+  "positions": [
+    {
+      "latitude": 9.021636,
+      "longitude": 38.838417,
+      "device": 68,
+      "speed": 39,
+      "course": 268,
+      "valid": false
+    },
+    {
+      "latitude": 9.019986,
+      "longitude": 38.803505,
+      "device": 53,
+      "speed": 0,
+      "course": 259,
+      "valid": false
+    },
+    {
+      "latitude": 8.973265,
+      "longitude": 38.890335,
+      "device": 86,
+      "speed": 0,
+      "course": 340,
+      "valid": false
+    }
+  ],
+  "devices": [
+    {
+      "id": 86,
+      "online": true,
+      "last_update": 1680512241
+    },
+    {
+      "id": 53,
+      "online": true,
+      "last_update": 1680512240
+    },
+    {
+      "id": 77,
+      "online": false,
+      "last_update": 1680512240
+    },
+    {
+      "id": 68,
+      "online": true,
+      "last_update": 1680512238
+    }
+  ],
+  "route_info": [
+    {
+      "device_id": 68,
+      "route_id": 69,
+      "stations": [
+        {
+          "id": 358,
+          "eta": -1
+        },
+        {
+          "id": 352,
+          "eta": -1
+        },
+        {
+          "id": 345,
+          "eta": -1
+        },
+        {
+          "id": 828,
+          "eta": -1
+        },
+        {
+          "id": 826,
+          "eta": -1
+        },
+        {
+          "id": 820,
+          "eta": 1680512340
+        },
+        {
+          "id": 810,
+          "eta": 1680512628
+        },
+        {
+          "id": 803,
+          "eta": 1680512964
+        }
+      ]
+    },
+    {
+      "device_id": 53,
+      "route_id": 69,
+      "stations": [
+        {
+          "id": 358,
+          "eta": -1
+        },
+        {
+          "id": 352,
+          "eta": -1
+        },
+        {
+          "id": 345,
+          "eta": -1
+        },
+        {
+          "id": 828,
+          "eta": -1
+        },
+        {
+          "id": 826,
+          "eta": -1
+        },
+        {
+          "id": 820,
+          "eta": -1
+        },
+        {
+          "id": 810,
+          "eta": -1
+        },
+        {
+          "id": 803,
+          "eta": 1680512315
+        }
+      ]
+    },
+    {
+      "device_id": 86,
+      "route_id": 70,
+      "stations": [
+        {
+          "id": 803,
+          "eta": -1
+        },
+        {
+          "id": 285,
+          "eta": -1
+        },
+        {
+          "id": 298,
+          "eta": -1
+        },
+        {
+          "id": 324,
+          "eta": -1
+        },
+        {
+          "id": 344,
+          "eta": -1
+        },
+        {
+          "id": 359,
+          "eta": 0
+        }
+      ]
+    }
+  ]
+}
