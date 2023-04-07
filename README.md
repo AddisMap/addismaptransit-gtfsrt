@@ -8,6 +8,13 @@ The folder build was generated like this:
 * `snap install protoc --classic`
 * `protoc --proto_path=. --php_out=build/gen ./gtfs-realtime.proto3`
 
+## Purpose
+
+The idea is to generate GTFS-RT data from a feed that delivery realtime data in JSON with custom IDs.
+See `fixtures/realtime-day.json`. The feed also supplies to routes (see `routes.json`)
+
+This data needs to be mapped to our GTFS using mapping tables (t.b.d.).
+
 ## Installation
 
 * PHP8.1 is installed
