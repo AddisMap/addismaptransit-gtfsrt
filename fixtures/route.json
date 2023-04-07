@@ -1,0 +1,1868 @@
+{
+  "master_routes": [
+    {
+      "id": 1,
+      "name": "መገናኛ - አራብሳ / Megenagna - Arabsa",
+      "number": "D24",
+      "vehicles": 7,
+      "routes": [
+        {
+          "id": 69,
+          "geometry": "erwu@ewjlF??s@j@{D~C_ChBs@j@MJuAdAu@l@]^_@b@a@f@a@p@w@zA]p@cArBs@rA]n@KPC?I@IBGDGDkHGiCCW?kDEkFEmFGeACaAAkAAYAq@?yFI_EEs@?uJQcEEoGGsCCyFG{ACgBCI@gGIK?eAAWAQAOCQAACCEGEGCGCGAI?G?IBIBGBGFEFCHCH?H?H@HDHBFBBa@n@y@rA_BlCMTc@r@kClEmAnBu@lAINW^QZiAlB[h@a@v@QZUj@M\\Mb@eChKQp@]fAI@GDA@CDiPaBkCWkCYkAMcBQiBQwJ_AyAKq@Eg@GSCk@Gk@Ik@KGAKCMCoAS}AWmB]}@Os@MkB]qB]iAQOASCU?}BAoB@uB?s@@w@AoB@sB?mB?}@?m@?}B?qC@w@@?RBhABrAFnE@dA?r@Af@Kv@UJ_@d@In@B^JZVXd@h@HX@d@FrCDbANlF@RB~A?L?bBAlD@f@FdG@HHt@@RBRF\\Fn@@x@FpCD~G?pDDvCL|EDvANfEFtADzA@h@?RBlCAdCElCEhBAl@IzDKdGA^Ar@ClAA^EhBEp@E^_@`A[PSRS^G^A^D^N\\LPPL\\jADV@V?n@CzA?LErAKvGMpGMvESpLG`B?jAC^ArACfCAPG|FAh@AtA?NC~AA\\?N?PA\\?JE|@QvMA|@GlCMhGCxAGbE?TAnBDtABf@Fr@PhAZbAnBbHb@rAd@rAx@nCHVTx@Lb@GNCH?h@D`@H\\R\\\\RRFh@xAZhAb@bBR~@Hd@Hf@@PFl@BXF|ABnA?jAAn@GrAEr@G|@YvBOrAYlCOrASxA[zDg@jUWzHCj@MfBu@vGYhCCb@EhABhBDt@HdAj@lGt@dIQZCHAFDbB?`A@r@[d@",
+          "stations": [
+            {
+              "id": 358,
+              "name": "ቦሌ  አራብሳ ጨርቆስ  1",
+              "distance": 0.0,
+              "latitude": 8.97328,
+              "longitude": 38.890238,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 352,
+              "name": "ቦሌ አራብሳ ከመብራት ሃየሉ ፊትለፊት ፌዝ 2",
+              "distance": 0.9803,
+              "latitude": 8.979764,
+              "longitude": 38.885014,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 345,
+              "name": "አያት አደባባይ ግራ ክንፍ 2",
+              "distance": 1.3269000000000002,
+              "latitude": 9.021586,
+              "longitude": 38.877368,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 828,
+              "name": "ሲ.ኤም.ሲ 1",
+              "distance": 8.029499999999999,
+              "latitude": 9.021151,
+              "longitude": 38.850463,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 826,
+              "name": "ሲ.ኤም.ሲ አልታድ 3",
+              "distance": 1.1238,
+              "latitude": 9.021653,
+              "longitude": 38.840255,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 820,
+              "name": "ሲቪል ሰርቪስ ዩኒቨርስቲ 1",
+              "distance": 0.7697999999999999,
+              "latitude": 9.021885,
+              "longitude": 38.833258,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 810,
+              "name": "ጉርድ ሾላ ኢትዮ ቴሌ",
+              "distance": 1.5940999999999999,
+              "latitude": 9.019391,
+              "longitude": 38.819484,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 803,
+              "name": "መገናኛ  26",
+              "distance": 1.0097,
+              "latitude": 9.020251,
+              "longitude": 38.802788,
+              "index": 10,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "geometry": "mw`v@itykFOTOXMT_@x@a@z@KBGH?NFLHBR?hBUTKLGCT?RDTHPHFPLTFJ@J?TERKRSBCDMBWAWGUQUUaBO{AOyACSCOWmBQ{AcAiKCYYmCEq@COC{BFsBL{AJw@RcBb@oDTwB@OJiBJqE?QBsA@oAJ}CJ}CRyGFw@ZiD\\aD@M\\yCDe@LgAH_AF{@?WDs@?I?_@?}BGyAIaAGq@E_@Mq@Oy@g@uB]iAc@eBFW@e@C]CUOWWW_@Oo@iB[cAGU[gAYaA[iASk@g@yAQm@_@iASq@a@iBKw@Iy@A_@C]AuBBsBHyDBqA@w@BeB@c@DgDBgADqCDqCHeF?K@S?E?K?M?o@DcCHyD@qB@oAFsDB{@F_Dj@iV@WNcIL}H@[Da@BWFS`@_AVODENQNc@Fe@Ie@Ke@SQQSQe@Ow@Ai@@s@?G?K@k@^wOD}CBuC@wABmD?m@EcCC_ACg@Au@MoDEqAE_BGsBEmAG}B?s@?sA?u@?MCmBAqCCmDIkC?GOqGQyGMmFCu@KyDM}EBeAXIVQPUJ[B]Ge@S_@[WQ]CQEu@A_@?iA?yBGgCE}B\\ArBA~BAj@?~@?nB?lBApB?v@?t@?pB?pBAzB?N?P@J@XD|@LnB\\lB\\r@Lz@NpB\\rDn@JB@?lCf@RBf@FvCXxGr@jAJlBRjBP|I`A`Gj@fGr@ZDBHDDFDFBH@H?HCFEDEBGBI?IAICGGIViAd@oBjAeFh@uBVs@\\w@vAaClAuBHM`A_BfAgBdCgEr@iAVa@lAsBdAeBLSVWH@H?HAFCHEDEDG~A@`DDdDDnBB~@@dCB`DFdED`EDf@?~CDhEFlCB^BrEDtFD`@?fADN?hDDpIJlFFfB@X?hGHhBBV@RBNDHBFDFDH@H@H?HAHCHENCd@E`@AhDBvDB~DDhEBrEBzCBH?nGD~BBF?vFDdFD^?J?|BB|B@J@J@NBL@F@@@FBFBH@D?B?HAHCFCFGDG@I@I?IAICICGGGGEEAUo@AEM[OY[g@Y]k@g@KIk@a@kAy@gCkB{C{B}EuDoFaECCKG}D{CaBqAe@a@BG?E?IAGCIEEEEGCGCI?G@I@EDGDCDCHAD?Fs@j@_Av@E@",
+          "stations": [
+            {
+              "id": 803,
+              "name": "መገናኛ  26",
+              "distance": 6.9084,
+              "latitude": 9.020251,
+              "longitude": 38.802788,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 285,
+              "name": "ጉርድ ሾላ  DMC  የአሽከርካሪዎች ት/ቤት",
+              "distance": 2.3670999999999998,
+              "latitude": 9.019101,
+              "longitude": 38.819184,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 298,
+              "name": "ከሲቪል ሰርቪስ ት/ቤት ፊትለፊት",
+              "distance": 1.7814,
+              "latitude": 9.021569,
+              "longitude": 38.834705,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 324,
+              "name": "ሲኤምሲ የተባበሩት በስተቀኝ",
+              "distance": 2.1368,
+              "latitude": 9.02069,
+              "longitude": 38.85381,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 344,
+              "name": "አዯት አደባባይ ቀኝ ክንፍ 1",
+              "distance": 2.6215,
+              "latitude": 9.021197,
+              "longitude": 38.877295,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 359,
+              "name": "ቦሌ  አራብሳ ጨርቆስ  2",
+              "distance": 1.3982,
+              "latitude": 8.973217,
+              "longitude": 38.890302,
+              "index": 7,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "መገናኛ - ዩኒሳ አደባባይ",
+      "number": null,
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 52,
+          "geometry": "ml`v@soykFE@m@Je@FSBW@QBQUCC[M_@AUDG@OJMNIPCT?RDTHPHFPLTFJ@J?TERKRSBCDMh@SlAS\\GXGFCzCm@F@FDDFBFEv@t@RvCr@ZNZHrAX^VRPLJvANH@~BFb@Bb@@fA@V@VBfABtBJ|@DVDTHlBp@vAl@bA`@LFr@aB^{@Vo@`@_ATi@d@iAHSJWb@gA^}@^aApByEz@gB\\s@Zq@N]j@kALUDKPa@L[LY\\w@`@_Af@kA`@cAVm@Zs@Zs@n@yAh@oA\\w@\\s@\\w@Te@FOVk@Vm@N[\\w@\\_APg@FURs@Jy@@G@GLy@N}@Ju@D_@BWF]?S@O@S?[?]?o@C_@KiA?C?AEa@KaAGg@Gs@O}ACSNMTQVUXYd@c@f@i@HGb@e@n@o@VW^_@l@k@^a@t@s@t@s@v@w@b@a@bAcADE^_@x@y@r@w@h@e@~@aAb@e@FGbAcAh@i@v@u@j@o@d@e@`A_AXW^]LMbBmBf@g@|C}C\\a@\\e@FKf@y@d@s@\\g@HMJMNOb@e@v@s@f@c@^]^[VWBEBCd@c@\\]`@_@b@_@n@o@lAgAf@e@\\[b@g@t@_ADEFIHKZa@TBVCRKFERBh@Bl@DJ@~@HnBR~Fj@h@FvEb@p@FlDZbCTx@H`AJT@p@BxBB`BC~AGdBO|@KdBY|A]bAYb@OZKlBw@bAe@`Ai@bAm@f@_@\\WFGx@u@ROf@g@b@e@v@aAv@eA\\k@\\m@l@oAxBqEvBsEv@cBJSZi@Zc@X_@\\a@fAaAbAs@^Ur@_@vAc@z@UvAUx@IhAC`AAbAFdAHn@F|@J\\DvFj@rDb@rBRfBPbFf@TBpWpCbANz@JLRRNTHX@VCRKJIZ@xAPrDf@jCf@r@LfAXtA\\dCp@rA^fCz@hEbBtBdAzBjApAx@dAl@tA`AhCpBPLRP`DrCnDlDbEfEjBlBtAvAlBnBfFhFbJfJ~CrCtB|AxBvAzCbBr@Z^NjAh@pAp@|@^p@Tz@Zj@Lv@JtALx@Pf@HVB|C^lAL|ALpAH~F\\|H^jDPhDPFPJNNJTHVBTCTINOPEL?H?pERxFX|EVdCLdH\\b@B`GZ|EVV@hCLlAHjI`@`DRrCLh@BlG\\`Jb@pIb@`AFtDPxAHhAFlAHfF`@~@HN@jBRxAPfBRr@J^F~Dl@~@L|AXjB^bCh@`FhArBf@fAXd@J`@HdAVBRFPPRVL\\DXEVKFEdATrD`AlEfA`E`AnBb@rAXpAR|C^~@HbCLvBF~D?Z?rBGxCUlBO|B]`Ca@JA~Bk@`Cs@tDsAjGgC`@ODCdFqB|FcCxKkEz@[rB{@nBw@r@Yx@_@dAa@lAe@h@QZOd@QvEoAj@Mj@OJLLHNFPBN@FAXEPIHIJKFMDOBQpAOtAQXC~CYfFc@rBQ`BSlDc@^BN?\\?`@ErAMvK}@x@EL?bAA~@?^BrAJxATpAX??dA^tAl@`Af@x@l@`A|@h@l@h@p@PV^p@j@fA^bAz@zCTt@Pp@Pn@fBhGRz@L`AHnA@ZApAATEd@QrAQzACbA?`ABnBJl@T|@Tl@^x@\\j@f@n@b@b@l@d@`An@`An@^XvAjAX^Xp@@Bn@bCFPzBvHh@lBj@nBTz@",
+          "stations": [
+            {
+              "id": 1003,
+              "name": "መገናኛ ቦሌ ክፍለከተማ",
+              "distance": 0.6177,
+              "latitude": 9.01848,
+              "longitude": 38.80204,
+              "index": 0,
+              "fare_price": 6.0
+            },
+            {
+              "id": 276,
+              "name": "ገርጂ አምበሳ ጋራጅ ከኔክሰስ ሆቴል በተቃራኒ 1",
+              "distance": 1.513,
+              "latitude": 9.007254,
+              "longitude": 38.805451,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 283,
+              "name": "ገርጂ መብራት ሃይል ከቦሌ ታክሲ መነሻ በስተቀኝ",
+              "distance": 1.1513,
+              "latitude": 9.003605,
+              "longitude": 38.81507,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 293,
+              "name": "ጎሮ አደባባይ ቱሉዲምቱ በግራ ክንፍ 1",
+              "distance": 2.2862,
+              "latitude": 8.990135,
+              "longitude": 38.829488,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 90,
+              "name": "አይቲ ፓርክ ከቦሌ በቀኝ ክንፍ 1",
+              "distance": 4.0988,
+              "latitude": 8.95734,
+              "longitude": 38.834979,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 83,
+              "name": "ጎሮ ወደ ቱሉዲምቱ ከጎጆዋ ፀበል ፊትለፊት",
+              "distance": 2.4347,
+              "latitude": 8.940085,
+              "longitude": 38.821652,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 78,
+              "name": "ኮየ ቀርሳ ወረዳ ቀኝ ክንፍ 1",
+              "distance": 1.0474,
+              "latitude": 8.930921,
+              "longitude": 38.819628,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 73,
+              "name": "ኮየፈጬ ወደ ቱሉዲምቱ /ቅሊንጦ ኢንዱስትሪ ፓርክ",
+              "distance": 3.413,
+              "latitude": 8.900636,
+              "longitude": 38.815167,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 72,
+              "name": "አ.አ ዩኒቨርሲቲ ሳየንስ ፋኩሊቲ የጀርባው መግቢያ",
+              "distance": 1.9065,
+              "latitude": 8.884292,
+              "longitude": 38.814903,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 79,
+              "name": "ቱሉዲመቱ አደባባይ ኖክ ወደ ዩኒሳ",
+              "distance": 1.3800999999999999,
+              "latitude": 8.873169,
+              "longitude": 38.819883,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 82,
+              "name": "ቱሉዲምቱ ከፕሮጀክት 12 በተጻራሪ የሚገኝ 2",
+              "distance": 0.8292,
+              "latitude": 8.86577,
+              "longitude": 38.820987,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 76,
+              "name": "ቱሉዲምቱ ከአቡ ቸርች በተቃራኒ",
+              "distance": 0.7659,
+              "latitude": 8.86062,
+              "longitude": 38.81726,
+              "index": 12,
+              "fare_price": null
+            },
+            {
+              "id": 62,
+              "name": "ዩኒሳ ዩኒቨርሲቲ",
+              "distance": 1.6158,
+              "latitude": 8.85567,
+              "longitude": 38.80413,
+              "index": 13,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "geometry": "qp`u@q}ykF[gAo@_CMe@iAsEi@qB?CcAcEWu@Qc@KQc@o@[]_@_@k@a@wA_Ai@_@OKc@a@[a@S[Yg@Ui@Oe@Mm@Km@Ca@Aq@?m@Bi@JmARkBDy@@m@AaAEs@QoAKc@WiAo@{BUy@sBoHa@aBQ_AOeA?EIkAIwAIsBI_AKm@I]GMYe@UYUQ]Q]Oc@KsAOeAM}AQoBSoBUeAGq@?w@Fe@FIBWF{@Xm@RyAl@cA\\aATm@Jo@HgHl@MBMFWJkCFq@Dm@B[Bw@FI@mBNyGl@iEf@y@HSKMEMCOAO@QDIBGBEBIJIJGLCLs@T}@VMDE@sDfAKDwAf@gBp@}@^m@VsCfAgBr@iAd@aA`@uDxA}EnBc@Pu@Z{Al@gCdAiAb@cBp@{B~@mFrBmAb@mCv@iB`@ODm@JaDf@iANuALuDRgA@mA@iC?wBGsBMiBQgC]}AW}@QqAYiEgAgG}A}D_AG]QWWQ]Ga@DWLEDaB_@[I{@SoG}A_Ci@qAWaCe@m@M_BWa@GwDm@a@EmBWk@GcAMyAO{CYcCQwCSmAGoAIaGYuDSyG[_AGu@E_BIgEUqFY_I_@uF[qEUUAgAGw@EsIc@}Jg@uJg@cFYmBKa@EEAUIQUUMWEW@SDSLMN_DOqDSkCMaEUiFYkDUsBS_AM{@MYEYEu@McB[c@KwA_@i@Qw@Wg@QoAg@iAe@YOq@]{Aw@yA{@mCgBsB_BqDgDkDqDmDmDmDqDuCwCyD_EsDuDgAeAsFmFs@k@yAiAuB}A_@SkCaB{BkAuBgAk@WsBw@_FeBcCu@cCo@gB]gCg@]GwEo@w@Ik@WOQUKKEK?W?WHSLy@G{AOoNuAiHu@yEe@oBUoBQeBS[CwDa@sBUsCYkAImAEeA@cADYBc@DgANw@Ny@VcA^kAj@i@ZgAx@c@`@URk@r@[`@S\\q@jAQ^yA~Ca@|@sBhEy@bB[j@GJMTw@hAa@l@q@v@gAhAiA`A_@V_@Xa@Vc@Zk@Zi@V{Ap@uAd@wAb@eAVoATwAPaAJmAFcBFuAAeCGMAyCUgD[{D_@cCUgAIaBQkFi@[C_@Eu@G}@GWEUAWAKQIEIEQEQ?ODOFKLINCP@VBFDJHHWf@]h@WZQTWVo@l@aBzAmAjA}BrBEH_BxAQPu@n@k@j@a@b@UXa@n@c@r@g@x@OT]^iDjDqDtDONKL}@z@uAtAYZk@n@o@l@q@p@w@x@C@i@j@u@r@ST{@z@o@l@m@l@q@p@w@t@MNo@n@i@f@aA`Ak@h@y@x@c@d@i@f@mAlAa@^u@p@KJ@NLdBH|@Fr@Fd@B^Ht@D^D`@@\\?r@CNA\\CPEj@AJALC`@CVE\\G^GZEZI^ANMv@G\\KZGRM^_@|@q@|AYp@Sb@MXg@hAa@z@w@hB_@|@Wj@_@x@g@hAq@`Bo@vAc@bAaA~B??Q\\m@pAMZGJQHEDKVe@~@o@xAOVIFMF{@OYMoA]m@Om@OiAMs@I}AEqAAeBDm@DcAL{AZcL|C}Bn@iDdAo@PaAXc@Jm@LUFk@NcARC@kAV",
+          "stations": [
+            {
+              "id": 63,
+              "name": "ዩኒሳ አደባባይ ወደ ቱሉዲምቱ",
+              "distance": 0.0,
+              "latitude": 8.855188,
+              "longitude": 38.804286,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 77,
+              "name": "ቱሉዲምቱ አቡነገብረመንፈስቅዱስ ቤተክርስትዯን",
+              "distance": 1.776,
+              "latitude": 8.860523,
+              "longitude": 38.818889,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 84,
+              "name": "ቱሉዲምቱ ፕሮጀክት 12 /1",
+              "distance": 0.804,
+              "latitude": 8.865734,
+              "longitude": 38.821979,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 81,
+              "name": "ቱሉዲምቱ ከፕሮጀክት 12 ቀጠሎ የሚገኝ (ኦይልሊብያ) 1",
+              "distance": 0.5906,
+              "latitude": 8.870872,
+              "longitude": 38.820821,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 286,
+              "name": "ቱሉዲምቱ ተርሚናል ግራ ክንፍ 1",
+              "distance": 0.5548,
+              "latitude": 8.875611,
+              "longitude": 38.819727,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 74,
+              "name": "ኮየፈጬ ግራ ክንፍ 1",
+              "distance": 2.9626,
+              "latitude": 8.900401,
+              "longitude": 38.815595,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 80,
+              "name": "ኮየ ቀርሳ ወረዳ ግራ ክንፍ 2",
+              "distance": 3.4223000000000003,
+              "latitude": 8.930813,
+              "longitude": 38.820055,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 86,
+              "name": "ኮየ አርሴማ ቸርች",
+              "distance": 1.015,
+              "latitude": 8.939678,
+              "longitude": 38.822007,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 91,
+              "name": "አይቲ ፓርክ ከቦሌ በግራ ክንፍ 2",
+              "distance": 2.4504,
+              "latitude": 8.957051,
+              "longitude": 38.835452,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 1004,
+              "name": "ጎሮ አደባባይ ቀኝ ክንፍ",
+              "distance": 4.0836,
+              "latitude": 8.98975,
+              "longitude": 38.82989,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 289,
+              "name": "ጎሮ ት/ቤት 1",
+              "distance": 0.6852,
+              "latitude": 8.994141,
+              "longitude": 38.826729,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 284,
+              "name": "ገርጂ  ጃክሮስ ከህብረት ባንክ በተቃራኒ",
+              "distance": 1.7213,
+              "latitude": 9.00382,
+              "longitude": 38.8151,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 281,
+              "name": "ገርጂ መብራት ሃይል ወደ መገናኛ 1",
+              "distance": 0.204,
+              "latitude": 9.003794,
+              "longitude": 38.813278,
+              "index": 12,
+              "fare_price": null
+            },
+            {
+              "id": 280,
+              "name": "የካቲት ወረቀት ፋብሪካ",
+              "distance": 0.3738,
+              "latitude": 9.004969,
+              "longitude": 38.810147,
+              "index": 13,
+              "fare_price": null
+            },
+            {
+              "id": 1001,
+              "name": "አምበሳ ጋራዥ ፊትለፊት ኔክሰስ ሆቴል",
+              "distance": 0.5721,
+              "latitude": 9.00739,
+              "longitude": 38.80555,
+              "index": 14,
+              "fare_price": null
+            },
+            {
+              "id": 1003,
+              "name": "መገናኛ ቦሌ ክፍለከተማ",
+              "distance": 1.394,
+              "latitude": 9.01848,
+              "longitude": 38.80204,
+              "index": 15,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "ፒያሳ _ ቦሌ",
+      "number": "A08",
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 62,
+          "geometry": "uqzu@cewkFUn@[fAg@~AENCJc@xAUp@e@zAI\\YfAa@vA[jAIVMb@ELABI\\a@nAg@dBO\\c@|AIXWv@]nAc@vA]lAIV]pAGRW~@IVUpAIf@If@O`AGl@Iz@CRCXCRKz@APAJKv@CTAXCPOrAGf@OtAGd@Eh@ENGLEVKf@Qt@Oh@Qn@c@dAc@|@i@t@OTG?G@KBGBKNCN?D@HBHC@GBc@d@_@`@IHo@p@QR[Xm@h@{AjAc@Za@VUNMJGBEDEJUL??C@QJe@Vs@\\e@Tg@Te@Rq@XYJcAd@k@Tk@Xi@Xa@PMFOFc@Ra@RcCfAc@PuCpAWLoAh@g@Rm@PcBv@cGfCUDMA[JGFCJAF[PiAf@C@eChA[LmAl@iAr@w@l@c@^GFCPu@n@]ZMJ_CrB_BzAa@^UT??ED{@t@cCxBGBiBbBWTYTQPe@\\Eb@?FK~AOtBq@bHCVANCXEVE\\e@@G@UH_@XcCpBmBdBQNiAbAUTeB|AgBxAeB|AiCzBeA~@g@b@iA|@YTWRQNWT[^o@j@_Ar@QPCB??YVoBbBk@h@ILCDC@}AbAO@yEN}AFO@u@DO@G?gADqERS@aCJ{DNM@cCHiBFO?O@M?k@Bk@?CECEIGKEIAI@MBKHGJAJu@Bk@@}BHk@DcCNwAFsCLIVWt@O`@Yr@Mb@_@pA_@pA]hAEL{BbHEDGFGJCFEHE?CCECGEMIyAwDWk@KSQO]Wy@e@IEk@[i@YUQKIGIIKIOKSOWISsB~@_@PGEGEK?Ym@e@{AGWBaD?qAH}@HEDGHMDO?MAIEMIOGCOEQA",
+          "stations": [
+            {
+              "id": 248,
+              "name": "ቦሌ ሚሊኒየም አደራሽ",
+              "distance": 0.0,
+              "latitude": 8.988695,
+              "longitude": 38.79015,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 226,
+              "name": "ወርቤክ ሃውስ",
+              "distance": 1.1944000000000001,
+              "latitude": 8.992352,
+              "longitude": 38.77994,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 941,
+              "name": "ቦሌ ኪራይ ቤቶች 1",
+              "distance": 0.7707,
+              "latitude": 8.994989,
+              "longitude": 38.773788,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 937,
+              "name": "ከቦሌ ማተሚያ ቤት በተቃራኒ 3",
+              "distance": 0.22590000000000002,
+              "latitude": 8.996526,
+              "longitude": 38.772459,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 927,
+              "name": "ጌቱ ኮሜርሻል ማእከል 1",
+              "distance": 0.6176,
+              "latitude": 9.001472,
+              "longitude": 38.769863,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 922,
+              "name": "ቦሌ ከደምበል ፊትለፊት 1",
+              "distance": 0.4465,
+              "latitude": 9.004935,
+              "longitude": 38.767877,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 881,
+              "name": "መስቀል  አደባባይ ሸባ ጉዞ ወኪል 1",
+              "distance": 1.5095,
+              "latitude": 9.01335,
+              "longitude": 38.758055,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 983,
+              "name": "አምባሳደር መከላከያ ሚ/ር 2",
+              "distance": 0.7485,
+              "latitude": 9.018394,
+              "longitude": 38.753521,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 1015,
+              "name": "ጥቁር አምበሳ ትምህርት ቤት",
+              "distance": 0.4704,
+              "latitude": 9.0222,
+              "longitude": 38.75222,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 511,
+              "name": "ቴድሮስ አደባባይ",
+              "distance": 0.453,
+              "latitude": 9.02628,
+              "longitude": 38.751869,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 1012,
+              "name": "ጊዮርጊስ ",
+              "distance": 1.8265,
+              "latitude": 9.03583,
+              "longitude": 38.75278,
+              "index": 10,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "geometry": "_ycv@k{okF??Q@SJGHENCN@NDLFHHHHDD@R@JAHCHEDGXJ\\Hz@Z`Bj@rBx@t@\\JLDLFVk@`BERAH?J@NJFHH`Ab@FBJ@L?J?HE\\s@Ne@H]BG`@m@NQHKJGJGLCFARAN?vBGl@CrCO`DQtAEJAtBMhAIbEKBHDFFDHBH@J?JCJGFKBKrBI??tDQrAED?jCMbBGhI_@|BKNAdAEN?NApDMv@CpAGRAAU@UFWDGNOpAkAvAkAPQ~@y@RO^[LORS^a@b@a@VSr@k@XY|@u@^]hCwB|@u@j@e@rCyBt@s@??NOJK|AuAnBcBp@k@f@c@LMJGLIh@UZAX@Fi@H[FYDUNeAh@gG\\oEBU@SZYrBkB@AHIDC`@_@hD}C\\[r@o@xBsBfBcBn@i@VWZ[LCJEd@_@b@_@fAq@dAi@fAe@ZQr@Yl@YJGn@Yb@KD@N@NCHGFGBK@I?Cx@[hD{A|CwA^YjCkAHE`Aa@bBu@l@Wd@Ud@W`@Qd@SVK`@Qf@Un@[\\Qn@Yb@UVKl@UPI@APGJEr@YbAg@^Ql@_@b@YTEHEPIRQbAo@dAy@`B_Br@s@n@q@^_@RSH?FALEHKDK@IAMJO`@w@f@aA\\y@Tq@HWFUJ_@Je@Jg@D[@M?GAEJ{@Fm@NcB@QLgABK@IRaBHw@Fm@D[BM@MJeAFg@F_@Jq@Jk@P_ARcAHWJ_@n@_CZcAd@_BJa@Rm@Ty@J_@FQJ[\\gAZ_AVcATw@HYRs@b@wAd@_B\\gAJa@fAyDNm@DK`@uAJ[HUBKJ]HQ",
+          "stations": [
+            {
+              "id": 1012,
+              "name": "ጊዮርጊስ ",
+              "distance": 0.0,
+              "latitude": 9.03583,
+              "longitude": 38.75278,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 1013,
+              "name": "ቴውድoስ አደባባይ ወደ ብሄራዊ",
+              "distance": 1.417,
+              "latitude": 9.02626,
+              "longitude": 38.7516,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 417,
+              "name": "ቀይ ኮከብ አደባባይ ወደ ብሄራዊ ትያትር 1",
+              "distance": 0.5854,
+              "latitude": 9.020989,
+              "longitude": 38.752072,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 990,
+              "name": "አምባሳደር ንግድ ባንክ ዋና መ/ቤት 2",
+              "distance": 0.5821000000000001,
+              "latitude": 9.01683,
+              "longitude": 38.754714,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 876,
+              "name": "ስታድየም ጊዮን መግቢያ 1",
+              "distance": 0.453,
+              "latitude": 9.013738,
+              "longitude": 38.757418,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 902,
+              "name": "ቀይ ሽብር  ሰማእታት 1",
+              "distance": 0.8279,
+              "latitude": 9.010097,
+              "longitude": 38.763371,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 1014,
+              "name": "ቦሌ ደምበል ወደ ቦሌ",
+              "distance": 0.7625,
+              "latitude": 9.00475,
+              "longitude": 38.76767,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 929,
+              "name": "ቦሌ ሱር ኮንስትራክሽን (ካሜሮን ኤምባሲ)",
+              "distance": 0.5091,
+              "latitude": 9.000812,
+              "longitude": 38.7699,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 935,
+              "name": "ቦሌ ማተሚያ ቤት 1",
+              "distance": 0.4042,
+              "latitude": 8.997566,
+              "longitude": 38.771585,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 224,
+              "name": "ወርበቅ ሃውስ ፊትለፊት",
+              "distance": 1.0974000000000002,
+              "latitude": 8.992243,
+              "longitude": 38.77934,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 232,
+              "name": "ቦሌ ፍሬንድሽፕ ህንጻ 2",
+              "distance": 0.7201000000000001,
+              "latitude": 8.99023,
+              "longitude": 38.785536,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 242,
+              "name": "ከቦሌ ሚሊኒየም አደራሽ በተቃራኒ",
+              "distance": 0.5119,
+              "latitude": 8.988459,
+              "longitude": 38.789832,
+              "index": 11,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "አዲሱ ገበያ _ መገናኛ",
+      "number": "D52",
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 67,
+          "geometry": "qnhv@mzlkFv@u@RSZ[TWjBiBp@s@PSPYRk@J_@HYN_@R[TYNONOPKnBmAVO~CkBVOLIpBmARKlAs@\\Uz@i@vA}@@?HGhAq@VOj@]j@]f@YvA{@~@i@JGhAq@`CyAVOPKb@YXQPK\\Sr@e@~A}@VOXQZSpA{@TM`@WNIPKFErBcA`Ac@RMdAg@pAm@l@Y`Ae@PIRIVMr@[VKr@[^Q@ADCBALGJGMOOMGGU]OSOSAAYc@]k@_@k@QWGKGMEGIWGWEWCU?a@@SBWFUNe@JQJSPg@Rq@FWD]NgAHi@Lq@Dc@B[@]Aq@E_@Gc@COMe@GSGSEKW_AMk@GWAICWC[BI?KCIEIPYVe@RUfAqAt@y@dBqBX_@FMLYLc@Ji@Dk@@e@A_@Ce@AKKg@Ok@EQEWQ{@Ee@A_@Ai@Ba@Hg@Ng@PIJODI?QAOIMMMFg@F[N{@Nq@JMJMFM@G@OCKEKTmA\\_BZeAd@eALWnAsCXu@t@eBnCgGxAkD^}@Zw@v@cBDM`@{@hBcEr@mBBGVy@b@wA@IJ]No@ZqAPs@^uADIFIHGHIHE~Aa@XIjAWb@MxCy@v@Wl@S^Q`@YFE\\_@Xm@FSF[F{@DsABm@Bw@Bm@@_@DCFEFI@I@KAMGKD_@Dk@@[@WCk@Ig@K]_@oAEc@@YD]L]P[VWJ?HCDAj@i@DEx@s@t@u@XWRURc@^s@d@_AVe@Tc@t@{Ab@w@d@_AVg@f@_Ad@}@Vm@LYNi@\\u@FMb@y@nAcCHOtAqCR[jAaCxAyCJUN_@VQR]HK@EHQPYJW`AkB^w@fBiDvAsCbCaFhBmD|@gBl@oAz@cB`AqBH_@LYJSRe@JSLEFElCiF|AgD~A{D",
+          "stations": [
+            {
+              "id": 436,
+              "name": "አዲሱ ገበያ 1",
+              "distance": 0.0,
+              "latitude": 9.059718,
+              "longitude": 38.737141,
+              "index": 0,
+              "fare_price": 4.0
+            },
+            {
+              "id": 446,
+              "name": "አሚጎኒያን ት/ቤት ፊትለፊት",
+              "distance": 0.8927999999999999,
+              "latitude": 9.053779,
+              "longitude": 38.74245,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 493,
+              "name": "ቀለመወርቅ ት/ቤት 2",
+              "distance": 0.6374,
+              "latitude": 9.048997,
+              "longitude": 38.745684,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 1023,
+              "name": "ሰሜን ሆቴል ወደ አፍንጮ በር",
+              "distance": 0.681,
+              "latitude": 9.04475,
+              "longitude": 38.74911,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 538,
+              "name": "አፍንጮ በር አ.አ ዩኒቨርሲቲ 5ኛ በር በተቃራኒ 2",
+              "distance": 0.9361,
+              "latitude": 9.0444,
+              "longitude": 38.756706,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 548,
+              "name": "የካቲት 12 ሆስፒታል የጀርባ መግቢያ",
+              "distance": 0.3401,
+              "latitude": 9.043688,
+              "longitude": 38.759554,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 557,
+              "name": "አንበሳ ግቢ  ወደ ሚኒሊክ ሆስፒታል 1",
+              "distance": 0.3028,
+              "latitude": 9.043454,
+              "longitude": 38.762057,
+              "index": 6,
+              "fare_price": 3.0
+            },
+            {
+              "id": 587,
+              "name": "ጃን ሜዳ መከላከያ ግቢ አጠር 1",
+              "distance": 0.9302999999999999,
+              "latitude": 9.039904,
+              "longitude": 38.76962,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 737,
+              "name": "ዳግማዊ ምንሊክ ሆስፒታል 3",
+              "distance": 0.5526,
+              "latitude": 9.037573,
+              "longitude": 38.773835,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 745,
+              "name": "ኮከበ ጽባህ 3",
+              "distance": 0.9306,
+              "latitude": 9.034176,
+              "longitude": 38.780179,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 757,
+              "name": "እንግሊዝ ኤምባሲ 1",
+              "distance": 0.6134,
+              "latitude": 9.031104,
+              "longitude": 38.784794,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 763,
+              "name": "አበቤ ሱቅ",
+              "distance": 0.5174,
+              "latitude": 9.028673,
+              "longitude": 38.788798,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 771,
+              "name": "ሾላ ፍርድ ቤት 1",
+              "distance": 0.7273999999999999,
+              "latitude": 9.025257,
+              "longitude": 38.794451,
+              "index": 12,
+              "fare_price": null
+            },
+            {
+              "id": 778,
+              "name": "መገናኛ  1",
+              "distance": 0.6063999999999999,
+              "latitude": 9.022555,
+              "longitude": 38.799229,
+              "index": 13,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "geometry": "oeav@gbykFe@bAsAhDELyDzHwBhECHEJq@rAWh@y@`BeAtBw@zAsCrF}BxEsB~DaB|Cq@tA[p@k@fAINS`@MT{BhE??_AfBGNg@dAc@|@INm@lA}A|CyAxC]l@CD]p@w@zAg@bAk@hAuArC_@r@Wb@[^y@z@w@r@q@j@GDIFWTOLMJSd@K^CZ?^Fd@^xAFRHd@@P@PA^CZG\\I\\KBEBGFCFCH@J@JDHHF?XAR@ZCv@Aj@?HAr@EdAEXI\\OXS\\MNGDm@^a@N_Bf@}DbA{@VA?QDyBl@MFIDEFEN]xAGPOl@[lAOn@c@`Bg@`Bu@jBw@lBoAnCEJoBrEi@jAs@fBm@rAgC|F{@pBq@|AMVYp@Ul@KZOd@UdAQz@Mp@I?G@OHET@L@JBJFPGZGXMp@IZITSXIBKFGHCHA^NZ?j@?^Ef@?T?V@d@Hf@XxARz@FZBRDb@?\\CZA\\G\\Md@Ul@GJSX_@f@_ErEIJON[`@S^IJGDEFAH?H@H@BFFXZJP?@FNT`ATx@N`@FRNh@@HHd@@\\Bd@Ad@Cb@Kn@Kl@UnBKb@Qn@O^OXMZKVI^CXANA\\B\\BTFVDNHRJPLTT\\T^j@z@PVNTHJX^BJ?D?JEBULk@T_@RWL}@^g@V??mB~@kAj@GBo@XwAn@yAt@[NMHIDOHSN]RULe@XIFIDYRq@`@[Pu@b@s@`@[Rk@Ze@Zi@\\QJUNGDu@b@UNMFa@To@`@c@TQLo@^[RoAt@IFs@b@e@V[RwAv@OJeCzAKFQLkAr@UN}BvAYPuDzBsBhAQNYXWXWb@Uj@M\\ENUn@IPKLe@j@QRkBdBUT[VMLc@`@WVIHA@",
+          "stations": [
+            {
+              "id": 783,
+              "name": "መገናኛ  6",
+              "distance": 0.0,
+              "latitude": 9.022592,
+              "longitude": 38.799939,
+              "index": 0,
+              "fare_price": 4.0
+            },
+            {
+              "id": 774,
+              "name": "ሾላ ገበያ የካ ጤና ጣቢያ 1",
+              "distance": 0.6434,
+              "latitude": 9.025465,
+              "longitude": 38.79486,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 760,
+              "name": "እንግሊዝ ኤምባሲ 2",
+              "distance": 0.9662000000000001,
+              "latitude": 9.029956,
+              "longitude": 38.787324,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 755,
+              "name": "ቤልጄም ኤምባሲ",
+              "distance": 0.4545,
+              "latitude": 9.032044,
+              "longitude": 38.783765,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 746,
+              "name": "ኮከበ ጽባህ 4",
+              "distance": 0.4874,
+              "latitude": 9.034592,
+              "longitude": 38.780215,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 744,
+              "name": "ኮከበ ጽባህ 2",
+              "distance": 0.0070999999999999995,
+              "latitude": 9.034638,
+              "longitude": 38.780169,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 602,
+              "name": "ቀበና ካቶሊክ ኪዳነምህረት ቤትክርስትዯን",
+              "distance": 0.4671,
+              "latitude": 9.035042,
+              "longitude": 38.77622,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 740,
+              "name": "ዳግማዊ ምንሊክ ሆስፒታል 6",
+              "distance": 0.4105,
+              "latitude": 9.037546,
+              "longitude": 38.774135,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 739,
+              "name": "ዳግማዊ ምንሊክ ሆስፒታል 5",
+              "distance": 0.0108,
+              "latitude": 9.037637,
+              "longitude": 38.774098,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 730,
+              "name": "ጃን ሜዳ 2",
+              "distance": 0.9095,
+              "latitude": 9.04154,
+              "longitude": 38.766981,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 728,
+              "name": "ቅዱስ ያሬድ ሙዚቃ ት/ቤት 2",
+              "distance": 0.3343,
+              "latitude": 9.04294,
+              "longitude": 38.764286,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 550,
+              "name": "6 ኪሎ ማርቆስ ቤተክርስትያን በር 2",
+              "distance": 0.4813,
+              "latitude": 9.044032,
+              "longitude": 38.760318,
+              "index": 11,
+              "fare_price": 3.0
+            },
+            {
+              "id": 537,
+              "name": "አፍንጮ በር ዩኒቨርሲቲ 5ኛ በር",
+              "distance": 0.5261,
+              "latitude": 9.045286,
+              "longitude": 38.756178,
+              "index": 12,
+              "fare_price": null
+            },
+            {
+              "id": 502,
+              "name": "ሰሜን ሁቴል አከባቢ ከአጼ ፋሲል ት/ቤት ፊትለፊት",
+              "distance": 1.0728,
+              "latitude": 9.045733,
+              "longitude": 38.747888,
+              "index": 13,
+              "fare_price": null
+            },
+            {
+              "id": 501,
+              "name": "ቀለመወርቅ አፖስቶሊክ ቤተክርስትያ",
+              "distance": 0.39230000000000004,
+              "latitude": 9.048789,
+              "longitude": 38.746066,
+              "index": 14,
+              "fare_price": null
+            },
+            {
+              "id": 486,
+              "name": "ኮልፌ አቡነ አረጋዊ ያዳም ዘውዴ ሆቴል አከባቢ",
+              "distance": 0.2804,
+              "latitude": 9.050896,
+              "longitude": 38.744654,
+              "index": 15,
+              "fare_price": null
+            },
+            {
+              "id": 477,
+              "name": "ከጊዮርጊስ ወደ አዲሱገበዯ ከሳሬም ሆቴል በተቃራኒ 2",
+              "distance": 0.2548,
+              "latitude": 9.052803,
+              "longitude": 38.743352,
+              "index": 16,
+              "fare_price": null
+            },
+            {
+              "id": 475,
+              "name": "ከጊዮርጊስ ወደ አዲሱገበዯ ከሳሬም ሆቴል በተቃራኒ 1",
+              "distance": 0.0075,
+              "latitude": 9.052866,
+              "longitude": 38.743324,
+              "index": 17,
+              "fare_price": null
+            },
+            {
+              "id": 440,
+              "name": "አዲሱ ገበያ  1",
+              "distance": 1.0355999999999999,
+              "latitude": 9.059881,
+              "longitude": 38.737268,
+              "index": 18,
+              "fare_price": null
+            },
+            {
+              "id": 439,
+              "name": "ሱሉልታ አውቶቢስ ማቆሚያ",
+              "distance": 0.0022,
+              "latitude": 9.059899,
+              "longitude": 38.737259,
+              "index": 19,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "ፒያሳ _ መገናኛ",
+      "number": "C17",
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 63,
+          "geometry": "_mcv@s_pkF~@_@FCTIh@QZIPBTLNNH\\ADY~AAHI\\ERALQr@e@~Bk@TSDU?YEeC}@wD}ASI?MAIEMIOGCOEQAQ@SJGHEN[J]Da@De@B]Ba@@m@@EEKESCSAO@KWYs@mC}FUe@c@aAe@aAiA}BO[[QOMKQES?U@WHUR_@RQRIZId@Mb@GDAXExAW@?|Du@n@SZOj@]\\Wp@k@BCt@s@NO~AcBd@g@\\_@|AaBV[NWfBqEr@kBn@iBf@{ATo@b@mANBPANELKHMBK@G?MAICGCIGGIGFOf@oAX{@Nc@H_@Fa@Dg@@O?g@Ee@Ka@CIGMWe@s@aAe@e@SWKOO[KYGQEU?MAWFy@F]Zu@HMJIHO`@Wf@a@PKNMn@i@`@a@T]^_ALYZaADYBe@@g@?s@Ce@Ga@SeAOo@]m@k@q@OSGIACIMKSQ_@?AG[Ea@?YCc@?OA[Cu@KeAGy@OcAKc@Qc@MUgAiA??y@}@qAqAiAmA[]k@i@@I@KAMGKD_@Dk@@[@WCk@Ig@K]_@oAEc@@YD]L]P[VWJ?HCDAj@i@DEx@s@t@u@XWRURc@^s@d@_AVe@Tc@t@{Ab@w@d@_AVg@f@_Ad@}@Vm@LYNi@\\u@FMb@y@nAcCHOtAqCR[jAaCxAyCJUN_@VQR]HK@EHQPYJW`AkB^w@fBiDvAsCbCaFhBmD|@gBl@oAz@cB`AqBH_@LYJSRe@JSLEFElCiF|AgD~A{D",
+          "stations": [
+            {
+              "id": 529,
+              "name": "ፒያሳ 10 ቁጥር አውቶቢስ ማቆሚያ 5",
+              "distance": 0.0,
+              "latitude": 9.033888,
+              "longitude": 38.753319,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 546,
+              "name": "4 ኪሎ የቀድሚ 2ኛ ፖሊስ ጣቢያ",
+              "distance": 0.3757,
+              "latitude": 9.035511,
+              "longitude": 38.758768,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 561,
+              "name": "4 ኪሎ  ከቱሪስት ሆቴል በተቃራኒ 1",
+              "distance": 0.4805,
+              "latitude": 9.03327,
+              "longitude": 38.762464,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 581,
+              "name": "ስላሴ ኮሌጅ 2",
+              "distance": 0.4269,
+              "latitude": 9.032187,
+              "longitude": 38.765858,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 583,
+              "name": "ሺ-ሰማኒያ",
+              "distance": 0.39080000000000004,
+              "latitude": 9.032387,
+              "longitude": 38.768679,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 593,
+              "name": "አዋሬ ገበያ መግቢያ 1",
+              "distance": 0.5177999999999999,
+              "latitude": 9.032309,
+              "longitude": 38.772828,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 600,
+              "name": "ቀበና ወደ መገናኛ",
+              "distance": 0.3468,
+              "latitude": 9.033133,
+              "longitude": 38.77583,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 745,
+              "name": "ኮከበ ጽባህ 3",
+              "distance": 0.5983999999999999,
+              "latitude": 9.034176,
+              "longitude": 38.780179,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 757,
+              "name": "እንግሊዝ ኤምባሲ 1",
+              "distance": 0.6134,
+              "latitude": 9.031104,
+              "longitude": 38.784794,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 763,
+              "name": "አበቤ ሱቅ",
+              "distance": 0.5174,
+              "latitude": 9.028673,
+              "longitude": 38.788798,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 771,
+              "name": "ሾላ ፍርድ ቤት 1",
+              "distance": 0.7273999999999999,
+              "latitude": 9.025257,
+              "longitude": 38.794451,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 778,
+              "name": "መገናኛ  1",
+              "distance": 2.1947,
+              "latitude": 9.022555,
+              "longitude": 38.799229,
+              "index": 12,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "geometry": "oeav@gbykFe@bAsAhDELyDzHwBhECHEJq@rAWh@y@`BeAtBw@zAsCrF}BxEINiBnDaB|Cq@tA[p@k@fAINS`@MT{BhE??_AfBGNg@dAc@|@INm@lA}A|CyAxC]l@CD]p@w@zAg@bAk@hAuArC_@r@Wb@[^y@z@w@r@q@j@QLWTOLMJSd@K^CZ?^Fd@^xAFRHd@@P@PA^CZG\\I\\KBEBGFCFCH@J@JDHHFJBJ@JADC|@z@JHlBlBj@l@ZZb@`@fAlALVLd@FRDXPtAHx@DnA@L?L?P@b@Bd@BZBJFVLZPVHJfAtAP\\Ph@Nn@Hh@Dl@@v@Cz@?TEVGT_@dAa@v@OVa@f@u@j@s@j@y@p@Y\\Wb@K\\Id@En@D`@Hh@DTN^T^BBVZVXZ^\\b@R\\Pf@Hh@@^@^E^Id@_@jAKZOb@a@bAGNO?QBOHKLENAN?H@FFNJJNHc@lAOd@m@dBo@hBs@jBgBpEOVWZ}A`B]^eCjCONg@d@MLCBq@j@]Vk@\\[No@R_Et@y@L_@HYDE@c@Fe@L[HSHSPS^ITAV?TDRJPNLZPXJv@PZD`AHn@@^AREVKT^p@jAPXVd@pAtBd@v@FJV^HNz@xAx@rAGHENCN@NDLFHHHHDD@R@JAHCHEDGHMDO?MAINStDuATM",
+          "stations": [
+            {
+              "id": 783,
+              "name": "መገናኛ  6",
+              "distance": 0.0,
+              "latitude": 9.022592,
+              "longitude": 38.799939,
+              "index": 0,
+              "fare_price": 4.0
+            },
+            {
+              "id": 774,
+              "name": "ሾላ ገበያ የካ ጤና ጣቢያ 1",
+              "distance": 0.6434,
+              "latitude": 9.025465,
+              "longitude": 38.79486,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 767,
+              "name": "ሚካኤል ጸበል",
+              "distance": 0.4403,
+              "latitude": 9.02742,
+              "longitude": 38.79137,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 760,
+              "name": "እንግሊዝ ኤምባሲ 2",
+              "distance": 0.526,
+              "latitude": 9.029956,
+              "longitude": 38.787324,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 755,
+              "name": "ቤልጄም ኤምባሲ",
+              "distance": 0.4545,
+              "latitude": 9.032044,
+              "longitude": 38.783765,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 744,
+              "name": "ኮከበ ጽባህ 2",
+              "distance": 0.4945,
+              "latitude": 9.034638,
+              "longitude": 38.780169,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 598,
+              "name": "ቀበና ወደ ፒያሳ",
+              "distance": 0.5887,
+              "latitude": 9.033495,
+              "longitude": 38.775812,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 582,
+              "name": "4 ኪሎ ከወወከማ  በተቃራኒ",
+              "distance": 1.1579000000000002,
+              "latitude": 9.033046,
+              "longitude": 38.766631,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 578,
+              "name": "4 ኪሎ ከስላሴ ቤተክርስትያን በተቃራኒ 1",
+              "distance": 0.2935,
+              "latitude": 9.032565,
+              "longitude": 38.764284,
+              "index": 8,
+              "fare_price": 3.0
+            },
+            {
+              "id": 562,
+              "name": "4 ኪሎ  ከቱሪስት ሆቴል በተቃራኒ 2",
+              "distance": 0.241,
+              "latitude": 9.033297,
+              "longitude": 38.762537,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 544,
+              "name": "ቅድስት ማሪያም",
+              "distance": 0.605,
+              "latitude": 9.036315,
+              "longitude": 38.758058,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 541,
+              "name": "ራስ መኮንን ፋሲካ ሆቴል",
+              "distance": 0.2915,
+              "latitude": 9.038621,
+              "longitude": 38.756928,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 525,
+              "name": "ፒያሳ 10 ቁጥር አውቶቢስ ማቆሚያ 3",
+              "distance": 1.0680999999999998,
+              "latitude": 9.03443,
+              "longitude": 38.753055,
+              "index": 12,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "ፒያሳ _ አስኮ",
+      "number": null,
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 58,
+          "geometry": "mgcv@uuokFIj@OHYDKAk@xAk@`Be@P}@b@o@XsB~@_@PGEGEK?I@GBGFCHAH?Hg@T{CxAyCpAmDtAs@VmAZc@Ls@ReAViAXSDe@La@JG@KFOHe@f@_@h@k@|@QRQNKHKDIBMBKDUDm@Hc@FE@??]FKBYHUJKHIFMJGFSRQXQX[l@q@fAQXYXKJWPUPWPi@Xw@b@o@^[R_@Pm@\\k@^m@\\y@d@w@b@q@b@o@\\a@VmAp@s@`@u@b@_@TSPQVKRKXERCRAX?\\BNBPFPDN??DNFPJVHV@JBN?PARANCJCPGLIRKLSVMNOPGJEFCLENELAJALAP@NKZKHGHEJAJ@JBLFFHFJ@L?JAHGRDB@HBNDB@NFJBdAX~@Vd@LLFNHJJPPHJFJFPHXPn@J`@BPDN@N?L?TARERIXUh@OZKTSd@EVCX?R@ZBRBVJZPVJLLLJHNRJLNVHPDNDRFZBT@HBVBV@P?N?BEVKNGRAR@LBJDJFHJHHDDFFLBN@TBXBZ@\\?P?N?VCLCNATEXA\\ANAP?PAPCREXE\\GXGREPIRENGJKPINIJEDKLIJMNMNMPWZW^]f@Y^W^U\\ORMPa@j@OTKNILKLKLKLMJONa@XYVYRk@`@QJSPSNOLSRORMNKNMRKPGLITKVITKVKVO^M^O\\MZKXQb@MXMRKTMVEPIXKZKTEJ??IPCFKRKPMLQNGAG?G@EBGBGHELAL@HONKJYZYXMPQTINQ\\O^O\\CHITM^CHYl@MPa@h@s@z@aAjAwAbBMLMPWRQLQLULQHs@X]NOJOPMPENCRCR@TJn@DNHPJPp@f@p@\\`@Rj@ZNHLNLTHPH\\BT@TAF?NGXQf@O`@SZSRYP_@Ra@J_@Hc@FUDOBw@Rc@HIFCJI?Q@o@@GCGAG?G?IBGBGFCFCH?H?@S@MBYD[F[NKHURSZM\\EVAXAXBT@LFNFNNPRTZVRRb@d@TXJPHRFRJb@RdAXpAFZF^FX@V@V?`@CPCXGZIXKZOd@KXSh@CLIRIVIRIPINOTMNST_@d@WVKNQLQJOHKDIB]HIBU@w@Dk@BM?UBOBODQHOHKJKJKLGLGLGREPEX?P@P@P@DL`@Rj@Pb@Nb@J`@FX@PDX@T@R?P?X?XC^G|@C^EXCPCRIVGTKRKTKPMNMPMLYVSL[NYLs@NqAZWDk@Nc@JUFcAXw@RSHED]TGDYTS\\MVMVM^G^QjAQf@O`@MTILY\\uAtAURSNUNWHQDe@Hk@LUHSJSJMHMJUVMLOTMNIROd@I`@G^APAL?T?XR|Db@nGJbARr@b@hAl@nAHN@B`@n@v@~@\\X^XNNHNHT@B@BBV@L@HANARAJENIRGJMRIHKHOHSDMBI?[@M?WAMCQCi@My@Qm@O]GOAOAK?O?I?O?YDSBOF[Jc@VUP_@Z]Xm@l@MJMFMFYLWFY@QBU?uBE{@Cm@@{@BcBH[BWFSHOHOLMLECI?G@KB[FG_@",
+          "stations": [
+            {
+              "id": 510,
+              "name": "አራዳ ህንጻ ታክሲ ተርሚናል 1",
+              "distance": 2.311,
+              "latitude": 9.033118,
+              "longitude": 38.751809,
+              "index": 0,
+              "fare_price": 5.0
+            },
+            {
+              "id": 482,
+              "name": "ራስ ደስታ ሆስፒታል 1",
+              "distance": 0.4049,
+              "latitude": 9.044961,
+              "longitude": 38.743739,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 469,
+              "name": "እንቁላል ፋብሪካ ኪያሜድ ኮሌጅ 1",
+              "distance": 0.5885,
+              "latitude": 9.048477,
+              "longitude": 38.74027,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 434,
+              "name": "ፓስተር ምርምር ኢንስቲትዩት 2",
+              "distance": 0.2371,
+              "latitude": 9.046227,
+              "longitude": 38.730754,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 428,
+              "name": "መድሃኒአለም ት/ቤት 1",
+              "distance": 1.139,
+              "latitude": 9.051512,
+              "longitude": 38.722179,
+              "index": 7,
+              "fare_price": 4.0
+            },
+            {
+              "id": 419,
+              "name": "ከዊንጌት ወደ አስኮ ከሙስሊም መቃብር ፊትለፊት 1",
+              "distance": 1.2723,
+              "latitude": 9.055757,
+              "longitude": 38.713859,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 150,
+              "name": "ጨረታ ቀኝ ክንፍ ወደ አዲስ ከተማ",
+              "distance": 1.9587999999999999,
+              "latitude": 9.061608,
+              "longitude": 38.701124,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 135,
+              "name": "እያሱ ፀበል",
+              "distance": 0.7707,
+              "latitude": 9.066244,
+              "longitude": 38.696352,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 123,
+              "name": "አስኮ አውቶቢስ ማቆሚዯ ቀኝ ክንፍ",
+              "distance": 0.4679,
+              "latitude": 9.065309,
+              "longitude": 38.692231,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 117,
+              "name": "ሳንሱሲ ተርሚናል 2",
+              "distance": 1.1296,
+              "latitude": 9.071556,
+              "longitude": 38.689095,
+              "index": 12,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "geometry": "yxjv@wmckFF^ZGJCFAH?DBLHJKBCTMTKVGVEh@Cv@Cb@?T?hBDvB@d@A\\CXGRGRILKRORSX[POVUZURMNIHCFCJC^KJAj@CR?R@RBH@d@JbAXh@LPBRD^@R?VANCPEHENG\\YJKHKP]DMDS@O@]A[EQAEOc@GKMOOOa@]UOWYEEQUe@y@Q[MWUk@]w@CIQo@Gi@C_@AMMmBAOQ_CCYQaD?[@]Ba@@CBQH[FQFQPW\\g@ROXYVQ\\MRGZG`@G\\IZMHEZU^]n@q@f@i@PSJONWFQHUHY@GBMDQDW@MDUBOBKDMFKR_@NWRQ\\YTMl@Wv@Sb@MLCVIpA[vA]~@UXM\\SPMPOLOHIJOHKJQJSBIDKHYHYBQBQD[D]F}@B[?A?E@Y?UAWAWAUEWCQGYK_@Og@Qe@Qm@IYCMAM?K?OBSDUDMNYHKLMJILGPGPEPCVCt@C\\APCXCRELEXING@ANMPMLKTYJMTUT[PUNSFMFKDMFQHWPc@Lc@N]Ne@J]HYH]B[BWA]AYEYAQCGI]EW]_BSaAU{@Q]OSSSEGSQaAaAKOEOEMEOEU@YBODUDQDIJOJMNMNKPGTEPCR?N?P@FDHBH?H?HCFEDEDI@I?I?CPKJEREJABAFBD?L?TCBAPE\\Gz@Sr@Uh@QRKLIRQPQNQR]LYJYH[Da@?Q?SCUEWKWKQKMSSKKe@Wi@W[O]SUQQOKSGUIc@?Q?OBMJYFKHGPKJEZM`@OZOLITQNMb@a@h@o@VYRWTYh@o@Za@b@i@^e@Zg@P]Pg@L_@FO??P]Re@JUV[NOX]VYLKLKJBJ@LAJEFGFK@K?MCKLSR_@JQHQBGBGHQFQJSFMLSHUFOFODQDOJ[JYN_@To@Ti@Re@To@Ri@JWLULQJOLSLOLMJKRORO@A\\W\\W`@W^YTQPSLIPSV[LSR[RUR[T[Xc@V]Va@X_@LSJOFIPSPUDENSLOPULQFKDIJQDIDKHSDSFSH[DYD[BYBQBKBS@MBU?Q@S@U@]@W?A?[?QAQAQAWCYAI?G@I@I@GNEJIHIDKDM@OAQEOIMKKSKYKIIGMCKE[C_@E]CICMGWIUIQS[_@_@QUMMGKGOCGEUCSAO?O@U@OHYJYL[HSJQJYHWDODQ@Q@SAO?MCSEWGSQo@I]KUGOMUOOKIOKUKQGQGe@Ki@M}@WMGKEIGIGGGQSGMMO?I?GAO?MAO?MBODQDKFKBGLMHKNUNWLSL_@DS@O@SAI?QAKGYAIEOGOIUCKCGGQCKAKAM?K?M?MBQ@ODOFOHOHKHKHIDEJIJG\\Qr@a@`@WPKr@c@p@_@r@a@jAq@l@]h@[l@[\\Ul@]ZSh@Yn@a@z@g@\\Qd@[VQLKLMNQLQLQp@iAf@y@NYPSHGVWJGTKJCLETEPC^Gh@I^GJCPEPIJGLMJKRWr@aA`@g@NQFGNILGPGVIj@OhAWxA_@hAYrA_@NE`@OjCeApB{@b@O`@QhAg@nAk@@AZMTKFBF@H?HCFGDG@K?KAGEEGEGEK?Ym@e@{AGW@iC@W?qAH}@HEDGHMDO?MAINStDuAtAq@DAb@S",
+          "stations": [
+            {
+              "id": 117,
+              "name": "ሳንሱሲ ተርሚናል 2",
+              "distance": 0.0,
+              "latitude": 9.071556,
+              "longitude": 38.689095,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 116,
+              "name": "ሳንሱሲ ተርሚናል 1",
+              "distance": 0.07429999999999999,
+              "latitude": 9.071086,
+              "longitude": 38.688895,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 121,
+              "name": "ከአስኮ ወደ አወልዯ ከሳንሱስ ጉለሌ ሞንተርሶሪ ት/ቤት በተቃራኒ",
+              "distance": 0.5842,
+              "latitude": 9.066284,
+              "longitude": 38.690264,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 126,
+              "name": "አስኮ አውቶቢስ ማቆሚያ ግራ ክንፍ 1",
+              "distance": 0.5315,
+              "latitude": 9.065309,
+              "longitude": 38.692631,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 136,
+              "name": "አስኮ ወደ አወልያ እየሱስ ፀበል ፊትለፊት",
+              "distance": 0.44339999999999996,
+              "latitude": 9.066009,
+              "longitude": 38.696498,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 148,
+              "name": "ጨረታ ግራ ክንፍ ወደ አዲስ ከተማ",
+              "distance": 0.7272000000000001,
+              "latitude": 9.061644,
+              "longitude": 38.700915,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 155,
+              "name": "ብርጨቆ ፋብሪካ ወደ አዲስ ከተማ",
+              "distance": 0.4096,
+              "latitude": 9.059331,
+              "longitude": 38.703401,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 165,
+              "name": "ከአስኮ ወደ አወልያ ከጉለሌ ፋና ት/ቤት  በተቃራኒ",
+              "distance": 0.5592,
+              "latitude": 9.057615,
+              "longitude": 38.706914,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 175,
+              "name": "አወልያ ግራ ክንፍ ወደ አዲስ ከተማ",
+              "distance": 0.5549,
+              "latitude": 9.057293,
+              "longitude": 38.711546,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 181,
+              "name": "ከዊንጌት  በቀኝ በኩል ወደ አዲስ ከተማ 2",
+              "distance": 0.4036,
+              "latitude": 9.056046,
+              "longitude": 38.713458,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 183,
+              "name": "ከዊንጌት ቀኝ ክንፍ ወደ አዲስ ከተማ",
+              "distance": 0.0121,
+              "latitude": 9.055938,
+              "longitude": 38.713495,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 93,
+              "name": "ዊንጌት ፊናንስ ሰፈር 2",
+              "distance": 0.7848999999999999,
+              "latitude": 9.054142,
+              "longitude": 38.718337,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 106,
+              "name": "ጳውሎስ ሆስፒታል 1",
+              "distance": 0.9582,
+              "latitude": 9.049425,
+              "longitude": 38.725347,
+              "index": 12,
+              "fare_price": null
+            },
+            {
+              "id": 108,
+              "name": "ጳውሎስ ሆስፒታል 3",
+              "distance": 0.4712,
+              "latitude": 9.046606,
+              "longitude": 38.728543,
+              "index": 13,
+              "fare_price": null
+            },
+            {
+              "id": 206,
+              "name": "ፓስተር 1",
+              "distance": 0.2405,
+              "latitude": 9.046037,
+              "longitude": 38.730645,
+              "index": 14,
+              "fare_price": null
+            },
+            {
+              "id": 209,
+              "name": "ፓስተር 4",
+              "distance": 0.29710000000000003,
+              "latitude": 9.046428,
+              "longitude": 38.732992,
+              "index": 15,
+              "fare_price": null
+            },
+            {
+              "id": 473,
+              "name": "እንቁላል ፋብሪካ መኮነንኖች ክበብ 2",
+              "distance": 0.9851,
+              "latitude": 9.048351,
+              "longitude": 38.740334,
+              "index": 16,
+              "fare_price": null
+            },
+            {
+              "id": 495,
+              "name": "ዮውሃንስ ቤተክርስትዯን 1",
+              "distance": 0.9782000000000001,
+              "latitude": 9.042195,
+              "longitude": 38.745998,
+              "index": 17,
+              "fare_price": null
+            },
+            {
+              "id": 503,
+              "name": "አቡነ ጴጥሮስ ሃውልት አጥር",
+              "distance": 0.6982,
+              "latitude": 9.036698,
+              "longitude": 38.74885,
+              "index": 18,
+              "fare_price": null
+            },
+            {
+              "id": 506,
+              "name": "ፒያሳ ማዘጋጃ ቤት ፈረንሳይ ሽሮሜዳ አውቶቢስ ማቆሚያ 1",
+              "distance": 0.3966,
+              "latitude": 9.035659,
+              "longitude": 38.751307,
+              "index": 19,
+              "fare_price": null
+            },
+            {
+              "id": 529,
+              "name": "ፒያሳ 10 ቁጥር አውቶቢስ ማቆሚያ 5",
+              "distance": 0.3436,
+              "latitude": 9.033888,
+              "longitude": 38.753319,
+              "index": 20,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ከመገናኛ - አባዶ",
+      "number": "D21",
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 54,
+          "geometry": "e{`v@{qykFHOTg@T_@Pe@FOJYFa@BU?a@ASCUQs@c@oA]w@Us@ACKi@C]Ce@KaBGeAM_B_@}ESuCMuBAQ@s@F_APyCBi@BYBa@Ba@BY?QDaAB_A?c@Ca@Em@CUKo@EWOu@AII[Ka@c@oBU{@K_@Wu@Q_@S]CGOUk@cAs@mAm@iAe@}@g@_ASa@KQO]M]DG@I?ICGEKIEECM?E@C?M[We@S]MSAA[_@QEEEIGQO`@FPDVD\\DNBX@BtABf@@ZC?GDEDEHAJ@HDJFFHBJ@HAFCFGDG@I?ICGEKIEECGaACcA?]?AAc@AW?OCk@Go@AKIe@SoAAMUsAI]QaAOw@i@mCYsAWwAMq@UmAY}AYgBe@_D_@mBAWWeAESEUEKo@aCy@qCoAiEUs@EKY_ACK}@qBiA}B_@y@M[Og@Ou@McAIq@EYSmAO{@UaAYy@iAaDSi@Sq@q@uBw@iDQy@Mk@Oo@I]_@{ASy@Oi@uAaE[{@Wu@Si@_@eAYq@{@_Cm@_BgA{C]_AmAiD_@aACIq@cBk@}A_@aA_@cAWs@CCKc@Qy@Ki@Ms@M_AKy@Ga@Q{AUiB_@kCc@gDGe@UoBc@cD[mBKk@I_@Ic@EYUmAKm@Ie@AGUmAq@mDo@mDScAa@_CYsAc@sBU_A]kAe@qAUo@GS_@cAUo@kA_Dw@}BKWc@iASc@Ug@]g@i@q@}@}@[YeAo@MGUKCA_@S@[A]EYCSGQIUQWWWMKIIOKk@_@_Am@u@m@a@_@a@c@m@s@Yc@OW{AsCYe@[_@YUSOYMYG_@EY?{@Am@Ai@Eo@IoAWqEu@mB_@[G]Kq@UcC}@{B}@sBw@y@[]M[KaDkAgAc@yDwAm@WwAk@yCiAiAe@wCeAgCcAmCcAmCaAUMSMSSQSGKMSSe@AEIYMJe@lAWn@y@zBMb@GZQrASzAiAMOAYC_@Ik@GqAWuB_@c@K[GaAUy@QcDm@wB]sDs@QCyBa@{Ck@qF_AUEsAYi@Oi@Qy@[[OOIQKk@c@i@e@m@s@EEo@}@GGIHDH`@j@NPLP@?VZ|@v@b@^ZPLFjAd@n@Rd@LvAZf@HlARnCf@`BZzDt@Dj@B\\?DBb@?f@@j@Er@Ir@Or@U|@uA|FWbAyAbG_ApDYlAc@dB]xA_@vAu@hCI?MBKFGJCL?NDJ@@",
+          "stations": [
+            {
+              "id": 795,
+              "name": "መገናኛ  18",
+              "distance": 0.0,
+              "latitude": 9.020802,
+              "longitude": 38.80236,
+              "index": 0,
+              "fare_price": null
+            },
+            {
+              "id": 1005,
+              "name": "ሂል ሳይድ ወደ አባዶ",
+              "distance": 1.3067,
+              "latitude": 9.02138,
+              "longitude": 38.81396,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 804,
+              "name": "ላምበረት 1",
+              "distance": 0.21569999999999998,
+              "latitude": 9.022202,
+              "longitude": 38.815752,
+              "index": 2,
+              "fare_price": 2.0
+            },
+            {
+              "id": 807,
+              "name": "አራራት ሆቴል 1",
+              "distance": 0.44010000000000005,
+              "latitude": 9.024266,
+              "longitude": 38.819017,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 811,
+              "name": "ላምበረት 4",
+              "distance": 0.5317999999999999,
+              "latitude": 9.02395,
+              "longitude": 38.820155,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 815,
+              "name": "ኢትዮ ቻይና ኮንደሚንየም 1",
+              "distance": 0.7935,
+              "latitude": 9.02579,
+              "longitude": 38.827133,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 823,
+              "name": "ወሰን (ወደ አባዶ)",
+              "distance": 1.3582,
+              "latitude": 9.03031,
+              "longitude": 38.83858,
+              "index": 6,
+              "fare_price": 3.0
+            },
+            {
+              "id": 831,
+              "name": "ካራ ኮንደሚንየም (አቤም ሆቴል)",
+              "distance": 1.8657000000000001,
+              "latitude": 9.03589,
+              "longitude": 38.85449,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 1006,
+              "name": "ካራ",
+              "distance": 1.2255999999999998,
+              "latitude": 9.04047,
+              "longitude": 38.86449,
+              "index": 8,
+              "fare_price": 4.0
+            },
+            {
+              "id": 1007,
+              "name": "ካራ ሚካኤል",
+              "distance": 1.3191,
+              "latitude": 9.04994,
+              "longitude": 38.87063,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 1008,
+              "name": "ገደራ",
+              "distance": 1.1873,
+              "latitude": 9.05854,
+              "longitude": 38.87306,
+              "index": 10,
+              "fare_price": null
+            },
+            {
+              "id": 1009,
+              "name": "መስቀለኛ ወደ 13",
+              "distance": 0.7771,
+              "latitude": 9.06462,
+              "longitude": 38.87385,
+              "index": 11,
+              "fare_price": null
+            },
+            {
+              "id": 847,
+              "name": "የካ አባዶ ረዳ 13 ፖሊስ መምሪያ 1",
+              "distance": 0.6411,
+              "latitude": 9.068836,
+              "longitude": 38.875495,
+              "index": 12,
+              "fare_price": null
+            },
+            {
+              "id": 1010,
+              "name": "መስቀለኛ ወደ G7",
+              "distance": 0.628,
+              "latitude": 9.064,
+              "longitude": 38.87312,
+              "index": 13,
+              "fare_price": null
+            },
+            {
+              "id": 1011,
+              "name": "አባዶ G7 ",
+              "distance": 0.9783999999999999,
+              "latitude": 9.06667,
+              "longitude": 38.86477,
+              "index": 14,
+              "fare_price": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ፒያሳ _ ፈረንሳይ",
+      "number": "C39",
+      "vehicles": 0,
+      "routes": [
+        {
+          "id": 65,
+          "geometry": "cjdv@u{okFEAMEi@Mg@MmBe@yAa@OGSGkD}@}@WwA]iBc@y@Q]IoAY_B_@]Ce@C[BWDe@L]L[JU?GASEEKW_AMk@GWAICWC[BI?KCIEIPYVe@RUfAqAt@y@dBqBX_@FMLYLc@Ji@Dk@@e@A_@Ce@AKKg@Ok@EQWsAEe@A_@Ai@Ba@Hg@Ng@PIJODI?QAOIMMMFg@F[N{@Nq@JMJMFM@G@OCKEKSEI?G@OYO[cAyBCEiAaCWk@O[]y@o@yAmAmCm@qASe@m@wAGISe@c@_AQc@FMBM?OEOIKIGKCKAK@GOGKEGGKKSQc@EGOW]m@YW[]q@c@q@[]MUEg@ICAe@Gc@Gm@EkBSiAO_AO_@K_@Km@Qs@Y}@Ww@Um@Qg@Qc@M]M[Q]SYUs@k@cA_AQOKImAiAu@m@mAiAaA}@[[MMm@g@OMc@[II[U[WWSUS[_@S[[o@Qe@AEGQIWOo@Ik@G_@E]C_@AYAQ@U@QFQFYLAJEHIDK@MCKEIIGKEK?K[M]GUGSS}@Qi@IWKQWYe@a@aBaAq@c@kA}@aAs@WSYUMMOQKUM[YaA_@{AYoAo@cCcA}DU{@?Am@gCg@}Bk@iCWoAq@}Cu@eDc@mB",
+          "stations": [
+            {
+              "id": 523,
+              "name": "ፒያሳ ከባቡር ጣቢያ ፊትለፊት 1",
+              "distance": 0.0,
+              "latitude": 9.038546,
+              "longitude": 38.752816,
+              "index": 0,
+              "fare_price": 4.0
+            },
+            {
+              "id": 534,
+              "name": "አፍንጮ በር ብልጭታ ት/ቤት በተቃራኒ ክንፍ 2",
+              "distance": 0.4838,
+              "latitude": 9.042671,
+              "longitude": 38.754296,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 538,
+              "name": "አፍንጮ በር አ.አ ዩኒቨርሲቲ 5ኛ በር በተቃራኒ 2",
+              "distance": 0.5786,
+              "latitude": 9.0444,
+              "longitude": 38.756706,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 557,
+              "name": "አንበሳ ግቢ  ወደ ሚኒሊክ ሆስፒታል 1",
+              "distance": 0.643,
+              "latitude": 9.043454,
+              "longitude": 38.762057,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 577,
+              "name": "6 ኪሎ ኦሮሚያ ፍ/ቤት",
+              "distance": 0.21869999999999998,
+              "latitude": 9.043971,
+              "longitude": 38.763731,
+              "index": 4,
+              "fare_price": null
+            },
+            {
+              "id": 1018,
+              "name": "ጃንሜዳ 05",
+              "distance": 0.8863,
+              "latitude": 9.04841,
+              "longitude": 38.77007,
+              "index": 5,
+              "fare_price": 3.0
+            },
+            {
+              "id": 1019,
+              "name": "ፈረንሳይ ኬላ ወደፈረንሳይ",
+              "distance": 0.8643,
+              "latitude": 9.05509,
+              "longitude": 38.77372,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 1022,
+              "name": "ፈረንሳይ ብረት ድልድይ",
+              "distance": 1.9153,
+              "latitude": 9.06228,
+              "longitude": 38.78852,
+              "index": 7,
+              "fare_price": null
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "geometry": "{~hv@izvkFJb@H^t@jDXnAPx@V`APz@XzAJb@f@pBBJj@hCPt@f@nBV`Ax@bD`@~AR`AFR@FHTFTPZ\\`@b@b@XTz@p@FDz@n@x@j@nAt@XNNLXXFJLRN\\L^Rt@J^Lf@@PDZEFCJ?HBJBFC`@?z@?V@b@@TJv@Lv@H`@HZFRRh@h@bAHNPT`@`@vAlAhAx@f@b@@@x@t@d@b@`@^f@b@\\ZdAbAr@l@JJlAlAZTVTf@ZXNVJp@Xr@T|@Tf@N|@Vj@Pr@Vl@Pf@Ld@H~@HzBV`AHd@Fj@Hj@L`A`@f@\\`@\\X\\BDR\\??JPJT@BFNN^FTBLB^CL?L@LFJHHLDLBLAnAfCr@zA~AlDdBtD`@z@l@nAd@bAVl@DFjAfCVh@ET@L@JBJFPGZGXMp@IZITSXIBKFGHCHA^NZ?j@?^Ef@?T?V@d@Hf@XxARz@FZBRDb@?\\CZA\\G\\Md@Ul@GJSX_@f@_ErEIJON[`@S^IJGDEFAH?H@H@BFFXZJP?@FNT`ATx@N`@FRLEt@Uz@[XGXEZC^B^FzA\\fAVv@P^HjBb@zA^`@LVFv@RpBj@B@`@LtA`@hBd@l@Pv@RdBh@\\LHFLNAJ@PHJLDRBT?PAPIDGBEHEFEHCt@E",
+          "stations": [
+            {
+              "id": 762,
+              "name": "ፈረንሳይ ብረት ድልድይ",
+              "distance": 0.0,
+              "latitude": 9.062365,
+              "longitude": 38.788369,
+              "index": 0,
+              "fare_price": 4.0
+            },
+            {
+              "id": 750,
+              "name": "ፈረንሳይ ቦኖ ውሃ 2",
+              "distance": 0.859,
+              "latitude": 9.059919,
+              "longitude": 38.780955,
+              "index": 1,
+              "fare_price": null
+            },
+            {
+              "id": 743,
+              "name": "ከፍተኛ 12 ት/ቤት",
+              "distance": 0.3565,
+              "latitude": 9.057837,
+              "longitude": 38.778581,
+              "index": 2,
+              "fare_price": null
+            },
+            {
+              "id": 735,
+              "name": "ፈረንሳይ ኬላ 1",
+              "distance": 0.6572,
+              "latitude": 9.055184,
+              "longitude": 38.77366,
+              "index": 3,
+              "fare_price": null
+            },
+            {
+              "id": 731,
+              "name": "ጃን ሜዳ 3",
+              "distance": 1.0535999999999999,
+              "latitude": 9.047149,
+              "longitude": 38.769033,
+              "index": 4,
+              "fare_price": 3.0
+            },
+            {
+              "id": 467,
+              "name": "ከኦሮሚያ ፍርድ ቤት ፊትለፊት 1",
+              "distance": 0.6896,
+              "latitude": 9.044179,
+              "longitude": 38.763676,
+              "index": 5,
+              "fare_price": null
+            },
+            {
+              "id": 550,
+              "name": "6 ኪሎ ማርቆስ ቤተክርስትያን በር 2",
+              "distance": 0.4086,
+              "latitude": 9.044032,
+              "longitude": 38.760318,
+              "index": 6,
+              "fare_price": null
+            },
+            {
+              "id": 537,
+              "name": "አፍንጮ በር ዩኒቨርሲቲ 5ኛ በር",
+              "distance": 0.5261,
+              "latitude": 9.045286,
+              "longitude": 38.756178,
+              "index": 7,
+              "fare_price": null
+            },
+            {
+              "id": 533,
+              "name": "አፍንጮ በር ብልጭታ ት/ቤት 1",
+              "distance": 0.5378999999999999,
+              "latitude": 9.042608,
+              "longitude": 38.754068,
+              "index": 8,
+              "fare_price": null
+            },
+            {
+              "id": 531,
+              "name": "ደጃች ዉቤ ራስ አበበ ት/ቤት 1",
+              "distance": 0.2026,
+              "latitude": 9.040871,
+              "longitude": 38.753487,
+              "index": 9,
+              "fare_price": null
+            },
+            {
+              "id": 517,
+              "name": "ጊዮርጊስ ቤተክርስትያን 1",
+              "distance": 0.49739999999999995,
+              "latitude": 9.036881,
+              "longitude": 38.752216,
+              "index": 10,
+              "fare_price": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

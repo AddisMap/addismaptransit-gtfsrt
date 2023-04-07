@@ -1,0 +1,39 @@
+{
+  "devices": [
+    {
+      "id": 40,
+      "online": false,
+      "last_update": 1680371981
+    },
+    {
+      "id": 15,
+      "online": false,
+      "last_update": 1680622548
+    },
+    {
+      "id": 26,
+      "online": false,
+      "last_update": 1680708947
+    },
+    {
+      "id": 68,
+      "online": false,
+      "last_update": 1680717354
+    },
+    {
+      "id": 86,
+      "online": false,
+      "last_update": 1680717735
+    },
+    {
+      "id": 77,
+      "online": false,
+      "last_update": 1680716240
+    },
+    {
+      "id": 53,
+      "online": false,
+      "last_update": 1680714526
+    }
+  ]
+}

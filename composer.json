@@ -1,0 +1,12 @@
+{
+
+    "autoload": {
+        "psr-4": {
+            "Transit_realtime\\": "build/gen/Transit_realtime",
+            "GPBMetadata\\": "build/gen/GPBMetadata"
+        }
+    },
+    "require": {
+        "google/protobuf": "^3.22"
+    }
+}
